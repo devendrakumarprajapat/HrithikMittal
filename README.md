@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+![Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 <!--
 **HrithikMittal/HrithikMittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
