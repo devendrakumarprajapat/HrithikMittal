@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FHrithikMittal%2Fhit-counter)
 
 [![Adhikansh's github stats](https://github-readme-stats.vercel.app/api?username=hrithikmittal&count_private=true&show_icons=true&theme=radical)](https://adhikanshmittal.me)
